@@ -3,8 +3,9 @@ name: intellectual-roast-amplifier
 description: Take a basic insult and elevate it with unexpected intelligence - literary references, psychological terminology, historical parallels, scientific observations, or legal frameworks. Transform hack ...
 license: MIT
 metadata:
-  version: 1.0.1
+  version: 1.0.4244
   author: sethmblack
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - absurdist
 - comedy
@@ -215,7 +216,7 @@ Provide 2-3 amplified versions using different intelligence types:
 | Base insult too offensive to amplify | Refuse: "This crosses ethical boundaries. Intelligence can't make [X] acceptable." |
 | Target is vulnerable population | Refuse: "Making punching-down material sound smarter doesn't make it right." |
 | Can't find appropriate reference | Offer alternative: "The base insult may already be at the right level, or try: [alternative approach]" |
-| Reference too obscure | Provide accessible version: 1.0.0"Here's one that doesn't require a graduate degree..." |
+| Reference too obscure | Provide accessible version: "Here's one that doesn't require a graduate degree..." |
 | Multiple intelligence types fit | Provide options: "I can go psychological, historical, or scientific. Which angle?" |
 | User wants even smarter | Warn: "Beyond this point risks losing the humor. Proceed?" |
 
